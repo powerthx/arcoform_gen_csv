@@ -1,6 +1,5 @@
 "# arcoform_gen_csv" 
 :: 13.05.2020 - 11.27
-:: ....................................................................................................
 :: This Script extracts ARCO PDF Form Field Values and converts the output to a CSV File. 
 :: The Script uses the Software pdftk.exe to extract and the Tool sed.exe to Stream the content into a CSV Valid format.
 :: Alot of optimization could be done but as a POC is it not necessary at the moment.
